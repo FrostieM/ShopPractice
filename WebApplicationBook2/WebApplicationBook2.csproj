@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <LangVersion>8</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FontAwesome" Version="4.7.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0-preview3.19554.8" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0-preview3.19554.8" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0-preview3.19554.8" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Migrations" />
+      <Folder Include="Pages" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\.nupkg.metadata" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\.signature.p7s" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\Content\font-awesome.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\Content\font-awesome.min.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\fonts\fontawesome-webfont.eot" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\fonts\fontawesome-webfont.svg" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\fonts\fontawesome-webfont.ttf" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\fonts\fontawesome-webfont.woff" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\fonts\fontawesome-webfont.woff2" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\Content\fonts\FontAwesome.otf" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\fontawesome.4.7.0.nupkg" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\fontawesome.4.7.0.nupkg.sha512" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\fontawesome.nuspec" />
+      <_ContentIncludedByDefault Remove="wwwroot\lib\fontawesome\4.7.0\tools\install.ps1" />
+    </ItemGroup>
+
+
+</Project>

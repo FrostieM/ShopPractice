@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e0731b7-33bb-4bd3-92b0-0f05b61488da" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Shared/Components/CartSummary/Default.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Components/CartSummaryViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Migrations/20191208223134_Initial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/SessionCart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Cart/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Order/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.4.0/build/netcoreapp2.1/Microsoft.NET.Test.Sdk.Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/ViewModels/CartIndexViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Infrastructure/SessionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Controllers/CartController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Infrastructure/UrlExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ShopTests/CartTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/Cart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ShopTests/NavigationMenuViewComponentTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Shared/Components/NavigationMenu/Default.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Order/Completed.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ShopTests/OrderControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/EFOrderRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Components/NavigationMenuViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/IOrderRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Shared/ProductSummary.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/ViewModels/ProductListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ShopTests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Order/Checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/EFProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Controllers/OrderController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/Order.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/38162941-E237-435C-9932-7E4FA2A89000/1c/d04e6e42/RazorPageBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ShopTests/PageLinkTagHelperTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Infrastructure/PageLinkTagHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8E19DE1-8CAD-4DF0-84E1-51C0C26C1D12/f6/e73dc159/HttpContextAccessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/ViewModels/PagingInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6F2A55C2-68B8-4AD7-A4A9-65C717555CDE/fa/d0b3c373/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/IProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/FakeProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Product/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplicationBook2/Models/SeedData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Tests/SomeTests.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/IProductRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/FakeProductRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Controllers/Product.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Pages/Product/List.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Controllers/EFProductRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Controllers/ApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Program.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/appsettings.json" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/SeedData.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/EFProductRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/ViewModels/PagingInfo.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2Tests/PageLinkTagHelperTests.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/ViewModels/ProductListViewModel.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Infrastructure/PageLinkTagHelper.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Product/List.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Pages/Components/NavigationMenu/Default.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Components/NavigationMenuViewComponent.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2Tests/NavigationMenuViewComponentTests.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Shared/Components/NavigationMenu/Default.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/Cart.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2Tests/CartTests.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Infrastructure/SessionExtensions.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/ViewModels/CartIndexViewModel.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Infrastructure/UrlExtensions.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/_ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Shared/ProductSummary.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Components/CartSummaryViewComponent.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Shared/Components/CartSummary/Default.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Controllers/CartController.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/SessionCart.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Cart/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/ApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/IOrderRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/EFOrderRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Order/Completed.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2Tests/OrderControllerTests.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Order/Checkout.cshtml" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Models/Order.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Controllers/OrderController.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/Views/Order/List.cshtml" />
+        <option value="$PROJECT_DIR$/ShopTests/OrderControllerTests.cs" />
+        <option value="$PROJECT_DIR$/ShopTests/CartTests.cs" />
+        <option value="$PROJECT_DIR$/ShopTests/NavigationMenuViewComponentTests.cs" />
+        <option value="$PROJECT_DIR$/WebApplicationBook2/wwwroot/lib/fontawesome/4.7.0/fontawesome.nuspec" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U7dRRjD4RCqsnyRHIo1SymcVxU" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebApplicationBook2">
+    <configuration name="WebApplicationBook2" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplicationBook2/WebApplicationBook2.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebApplicationBook2" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplicationBook2: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApplicationBook2/WebApplicationBook2.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e0731b7-33bb-4bd3-92b0-0f05b61488da" name="Default Changelist" comment="" />
+      <created>1574711558367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574711558367</updated>
+      <workItem from="1574711561547" duration="2490000" />
+      <workItem from="1574842215639" duration="645000" />
+      <workItem from="1574850486932" duration="2321000" />
+      <workItem from="1574884394437" duration="6076000" />
+      <workItem from="1574927305771" duration="6699000" />
+      <workItem from="1574940696845" duration="13128000" />
+      <workItem from="1574978397577" duration="1172000" />
+      <workItem from="1575018806992" duration="18205000" />
+      <workItem from="1575048306875" duration="7292000" />
+      <workItem from="1575063467189" duration="4034000" />
+      <workItem from="1575107266760" duration="30081000" />
+      <workItem from="1575790591985" duration="13947000" />
+      <workItem from="1575843576624" duration="1058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

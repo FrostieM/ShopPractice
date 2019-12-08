@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\makso\.nuget\packages\microsoft.net.test.sdk\16.5.0-preview-20191115-01\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\makso\.nuget\packages\microsoft.testplatform.testhost\16.5.0-preview-20191115-01\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\makso\.nuget\packages\microsoft.testplatform.testhost\16.5.0-preview-20191115-01\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\makso\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\makso\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\makso\.nuget\packages\xunit.runner.visualstudio\2.4.1\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\makso\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\makso\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_WebApplicationBook2.166907621.00" t="ExcludeRecursive" />
+    <e p="C:\Users\makso\Desktop\Work\C#\WebApplicationBook2" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ShopTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CartTests.cs" t="Include" />
+        <e p="NavigationMenuViewComponentTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ShopTests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderControllerTests.cs" t="Include" />
+        <e p="PageLinkTagHelperTests.cs" t="Include" />
+        <e p="ShopTests.csproj" t="IncludeRecursive" />
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
+      <e p="WebApplicationBook2" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Components" t="Include">
+          <e p="CartSummaryViewComponent.cs" t="Include" />
+          <e p="NavigationMenuViewComponent.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="CartController.cs" t="Include" />
+          <e p="OrderController.cs" t="Include" />
+          <e p="ProductController.cs" t="Include" />
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="PageLinkTagHelper.cs" t="Include" />
+          <e p="SessionExtensions.cs" t="Include" />
+          <e p="UrlExtensions.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20191208223134_Initial.cs" t="Include" />
+          <e p="20191208223134_Initial.Designer.cs" t="Include" />
+          <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ApplicationDbContext.cs" t="Include" />
+          <e p="Cart.cs" t="Include" />
+          <e p="EFOrderRepository.cs" t="Include" />
+          <e p="EFProductRepository.cs" t="Include" />
+          <e p="FakeProductRepository.cs" t="Include" />
+          <e p="IOrderRepository.cs" t="Include" />
+          <e p="IProductRepository.cs" t="Include" />
+          <e p="Order.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="SeedData.cs" t="Include" />
+          <e p="SessionCart.cs" t="Include" />
+          <e p="ViewModels" t="Include">
+            <e p="CartIndexViewModel.cs" t="Include" />
+            <e p="PagingInfo.cs" t="Include" />
+            <e p="ProductListViewModel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebApplicationBook2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Cart" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Order" t="Include">
+            <e p="Checkout.cshtml" t="Include" />
+            <e p="Completed.cshtml" t="Include" />
+            <e p="List.cshtml" t="Include" />
+          </e>
+          <e p="Product" t="Include">
+            <e p="List.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Components" t="Include">
+              <e p="CartSummary" t="Include">
+                <e p="Default.cshtml" t="Include" />
+              </e>
+              <e p="NavigationMenu" t="Include">
+                <e p="Default.cshtml" t="Include" />
+              </e>
+            </e>
+            <e p="ProductSummary.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="WebApplicationBook2.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="WebApplicationBook2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
